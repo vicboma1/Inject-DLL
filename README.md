@@ -10,8 +10,8 @@
   
 ## CreateRemoteThread and LoadLibrary
 
-  ![](https://github.com/vicboma1/Inject-DLL/blob/master/assets/injectDll.gif)
-  
+[![Click to Video](https://github.com/vicboma1/Inject-DLL/blob/master/assets/injectDll_C_Nativo.gif)](https://youtu.be/zQpBnYENabU)
+
 ## Hooking
 
 
