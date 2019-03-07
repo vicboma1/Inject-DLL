@@ -5,7 +5,7 @@
 ### Process
   * [CreateRemoteThread and LoadLibrary](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#createremotethread-and-loadlibrary)
   * [Hooking](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hooking)
-  * [Portalble Executable Injection](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#portalble-executable-injection)
+  * [Portalble Execute](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#portalble-execute)
   
   
 ## CreateRemoteThread and LoadLibrary
@@ -14,5 +14,5 @@
 
 ## Hooking
 
-## Portalble Executable Injection
+## Portalble Execute
 
