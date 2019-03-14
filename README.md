@@ -4,15 +4,15 @@
 
 ### Process
   * [CreateRemoteThread and LoadLibrary](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#createremotethread-and-loadlibrary)
-  * [Hooking](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hooking)
   * [Portable Execute](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#portalble-execute)
+  * [Hook Detour](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hook-detour)
+  * [Hook Trampoline/Columpio](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hook-trampoline/columpio)
   
   
 ## CreateRemoteThread and LoadLibrary
 
 [![Click to Video](https://github.com/vicboma1/Inject-DLL/blob/master/assets/injectDll_C_Nativo.gif)](https://youtu.be/zQpBnYENabU)
 
-## Hooking
-
 ## Portable Execute
-
+## Hook Detour
+## Hook Trampoline/Columpio
