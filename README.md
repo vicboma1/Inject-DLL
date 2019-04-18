@@ -5,6 +5,7 @@
 ### Process
   * [CreateRemoteThread and LoadLibrary](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#createremotethread-and-loadlibrary)
   * [Portable Execute](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#portalble-execute)
+  * [Hook Injection](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hook-injection)
   
  ## Hooks
   * [Hook Api](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hook-api)
@@ -16,6 +17,8 @@
 [![Click to Video](https://github.com/vicboma1/Inject-DLL/blob/master/assets/injectDll_C_Nativo.gif)](https://youtu.be/zQpBnYENabU)
 
 ## Portable Execute
+
+## Hook Injection
 
 ## [Hook Api](https://github.com/vicboma1/Hook_pof)
 
