@@ -11,6 +11,7 @@
   * [Hook Api](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hook-api)
   * [Hook Virtual Methods](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hook-virtual-methods)
   * [Hook Trampoline/Columpio](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hook-trampolinecolumpio)
+  * [DetourFunction](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#detourFunction)
   
 ## CreateRemoteThread and LoadLibrary
 
@@ -27,3 +28,5 @@
 ## Hook Virtual Methods
 
 ## Hook Trampoline/Columpio
+
+## DetourFunction
