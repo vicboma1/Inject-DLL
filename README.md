@@ -7,11 +7,14 @@
   * [Portable Execute](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#portalble-execute)
   * [Hook Injection](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hook-injection)
   
- ## Hooks
+ ### Hooks
   * [Hook Api](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hook-api)
   * [Hook Virtual Methods](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hook-virtual-methods)
   * [Hook Trampoline/Columpio](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hook-trampolinecolumpio)
   * [DetourFunction](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#detourFunction)
+  
+ ### Segmentation memory
+  * [Addressing](https://github.com/vicboma1/real-mode-16bits-segmented-addressing)
   
 ## CreateRemoteThread and LoadLibrary
 
